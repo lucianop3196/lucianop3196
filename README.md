@@ -70,13 +70,9 @@ Here, in my profile, you can find some personal projects and other practical cha
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianop3196&hide_border=true&layout=compact" align="left" />
-
-</td><td valign="top" width="50%">
-
-
 
 </td></tr></table>  
 
