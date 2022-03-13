@@ -29,7 +29,7 @@ Here, in my profile, you can find some personal projects and other practical cha
 - 🔭 I’m currently working on SPA  
   
 
-- 🌱 I’m currently learning new backend technologies  
+- 🌱 I’m currently learning typescript and studying in depth React Js
   
 
 - ⚡ I am a continuous learner  
