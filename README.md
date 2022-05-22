@@ -29,11 +29,13 @@ Here, in my profile, you can find some personal projects and other practical cha
 - 🔭 I’m currently working on SPA  
   
 
-- 🌱 I’m currently learning typescript and studying in depth React Js
+- 🌱 I’m currently learning typescript and studying in depth Backend technologies
   
 
 - ⚡ I am a continuous learner  
 
+  
+- 💡 Focus on Backend technologies and web3
 
 </td><td valign="top" width="50%">
 
