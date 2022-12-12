@@ -26,10 +26,10 @@ Here, in my profile, you can find some personal projects and other practical cha
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on SPA  
+- 🔭 I’m currently working on a software factory as a Backend developer  
   
 
-- 🌱 I’m currently learning typescript and studying in depth Backend technologies
+- 🌱 I’m currently learning python and studying in depth Backend technologies
   
 
 - ⚡ I am a continuous learner  
