@@ -35,7 +35,7 @@ Here, in my profile, you can find some personal projects and other practical cha
 - ⚡ I am a continuous learner  
 
   
-- 💡 Focus on Backend technologies and web3
+- 💡 Focus on IA
 
 </td><td valign="top" width="50%">
 
